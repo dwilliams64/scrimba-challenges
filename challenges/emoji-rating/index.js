@@ -39,7 +39,7 @@ box.addEventListener("focusout", function(){
 
 // Write your code here
 
-
+// /
 box.addEventListener("keydown", e => {
     
     // if (!e.target.closest("#text")) return;
